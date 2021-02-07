@@ -21,7 +21,7 @@
 这里有我自己的笔记[机器学习算法概述](https://blog.csdn.net/qq_45510888/article/details/113444640)
 
 
-4.一个机器学习资料大全：MachineLearning[主页](https://allmachinelearning.github.io/MachineLearning/)[GitHub](https://github.com/allmachinelearning/MachineLearning)
+4.一个机器学习资料大全：MachineLearning  [主页](https://allmachinelearning.github.io/MachineLearning/)  [GitHub](https://github.com/allmachinelearning/MachineLearning)
 
 里面东西很全，足够系统的学习。
 
